@@ -7,7 +7,7 @@
 }
 .jumbo {
 	height: 650px;
-	background: url("images/jumbo.jpg");
+	background: url("../images/jumbo.jpg");
 	background-repeat: no-repeat;
 	background-position: bottom;
 	padding-top: 20px;
@@ -48,7 +48,7 @@ nav li:last-child {
 	width: 25%;
 }
 nav li input {
-	background: url("images/search.png");
+	background: url("../images/search.png");
 	background-repeat: no-repeat;
 	background-position: 2px 50%;
 	background-size: 20px;
